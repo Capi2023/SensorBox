@@ -30,7 +30,7 @@
 ![](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
 
 ### Screenshot de Temperature Sensor
-![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
 
 ### Screenshot de Gyroscope Sensor  
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
