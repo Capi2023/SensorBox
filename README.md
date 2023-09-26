@@ -19,6 +19,8 @@
 
 ### Screenshot de accelerometer Sensor
 
+![](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
+
 ![]()
 
 ![](imagenes/7b58f198d43fa42ab5a92a48305e42e2649a6f14c42566af2ac559967191a249.jpg)
