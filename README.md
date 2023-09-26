@@ -1,7 +1,7 @@
 # SensorBox
-Es una aplicacion que te permite visualizar los sensores que tiene tu telefono
+## Es una aplicacion que te permite visualizar los sensores que tiene tu telefono
 
-Esta es una imagen de la pantalla principal
+### Esta es una imagen de la pantalla principal
 
 ![](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
 
@@ -16,5 +16,9 @@ Esta es una imagen de la pantalla principal
 | Sound Sensor                     | Detecta y mide el sonido al rededor del dispositivo |
 | Magnetic Sensor                  | Mide el magnetismo alrededor del telefono |
 | Pressure Sensor                  | Mide la presion ambiental alrededor del telefono |
+
+### Screenshot de accelerometer Sensor
+
+![]()
 
 ![](imagenes/7b58f198d43fa42ab5a92a48305e42e2649a6f14c42566af2ac559967191a249.jpg)
