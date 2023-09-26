@@ -3,7 +3,7 @@ Es una aplicacion que te permite visualizar los sensores que tiene tu telefono
 
 Esta es una imagen de la pantalla principal
 
-![](imagenes/7b58f198d43fa42ab5a92a48305e42e2649a6f14c42566af2ac559967191a249.jpg)
+![](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
 
 | Nombre de sensor                 | Definición                      |
 |----------------------------------|---------------------------------|
