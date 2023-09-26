@@ -1,7 +1,7 @@
 # SensorBox
-## Es una aplicacion que te permite visualizar los sensores que tiene tu telefono
+### Es una aplicacion que te permite visualizar los sensores que tiene tu telefono
 
-### Esta es una imagen de la pantalla principal
+## Esta es una imagen de la pantalla principal
 
 ![](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
 
@@ -17,29 +17,29 @@
 | Magnetic Sensor                  | Mide el magnetismo alrededor del telefono |
 | Pressure Sensor                  | Mide la presion ambiental alrededor del telefono |
 
-### Screenshot de accelerometer Sensor
+## Screenshot de accelerometer Sensor
 ![](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
 
-### Screenshot de Light Sensor
+## Screenshot de Light Sensor
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
 
-### Screenshot de Orientation Sensor
+## Screenshot de Orientation Sensor
 ![](imagenes/Screenshot_20230925-230039_SensorBox.jpg)
 
-### Screenshot de Proximity Sensor 
+## Screenshot de Proximity Sensor 
 ![](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
 
-### Screenshot de Temperature Sensor
+## Screenshot de Temperature Sensor
 ![](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
 
-### Screenshot de Gyroscope Sensor  
+## Screenshot de Gyroscope Sensor  
 ![](imagenes/Screenshot_20230925-230217_SensorBox.jpg)
 
-### Screenshot de Sound Sensor 
+## Screenshot de Sound Sensor 
 ![](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
 
-### Screenshot de Magnetic Sensor
+## Screenshot de Magnetic Sensor
 ![](imagenes/Screenshot_20230925-230314_SensorBox.jpg)
 
-### Screenshot de Pressure Sensor
+## Screenshot de Pressure Sensor
 ![](imagenes/Screenshot_20230925-230331_SensorBox.jpg)
