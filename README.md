@@ -15,4 +15,4 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via MARKDOWN
 | Salida de datos                  | Digital (Arduino, Raspberry PI) |
 | Tiempo de respuesta típico       | 2 segundos                      |
 
-![](https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,q_80,t_base_params,w_610/v1605060385/content-items/006/187/378/amongus5-original.jpg?1605060385)
+![](https://drive.google.com/file/d/1IojMY8lAnWtWBQyr9_RUbo6FY7lJWQbI/view?usp=drive_link)
