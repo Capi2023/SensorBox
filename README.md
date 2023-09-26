@@ -5,8 +5,6 @@ Esta es una imagen de la pantalla principal
 
 ![](imagenes/7b58f198d43fa42ab5a92a48305e42e2649a6f14c42566af2ac559967191a249.jpg)
 
-
-
 | Nombre de sensor                 | Definición                      |
 |----------------------------------|---------------------------------|
 | Accelerometer Sensor             | Esta se aplica para detectar la direcion del del dispositivo |
@@ -18,6 +16,5 @@ Esta es una imagen de la pantalla principal
 | Sound Sensor                     | Detecta y mide el sonido al rededor del dispositivo |
 | Magnetic Sensor                  | Mide el magnetismo alrededor del telefono |
 | Pressure Sensor                  | Mide la presion ambiental alrededor del telefono |
-| Tiempo de respuesta típico       | 2 segundos                      |
 
 ![](imagenes/7b58f198d43fa42ab5a92a48305e42e2649a6f14c42566af2ac559967191a249.jpg)
