@@ -24,7 +24,7 @@
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
 
 ### Screenshot de Orientation Sensor
-![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230039_SensorBox.jpg)
 
 ### Screenshot de Proximity Sensor 
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
