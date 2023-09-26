@@ -39,7 +39,7 @@
 ![](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
 
 ### Screenshot de Magnetic Sensor
-![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230314_SensorBox.jpg)
 
 ### Screenshot de Pressure Sensor
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
