@@ -33,7 +33,7 @@
 ![](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
 
 ### Screenshot de Gyroscope Sensor  
-![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230217_SensorBox.jpg)
 
 ### Screenshot de Sound Sensor 
 ![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
