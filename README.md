@@ -3,7 +3,7 @@
 
 ## Esta es una imagen de la pantalla principal
 
-![Pagina|10](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
 
 | Nombre de sensor                 | Definición                      |
 |----------------------------------|---------------------------------|
@@ -18,25 +18,25 @@
 | Pressure Sensor                  | Mide la presion ambiental alrededor del telefono |
 
 ## Screenshot de accelerometer Sensor
-![Esoyam|40](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
 
 ## Screenshot de Light Sensor
-![Pana|50](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
 
 ## Screenshot de Orientation Sensor
 ![](imagenes/Screenshot_20230925-230039_SensorBox.jpg)
 
 ## Screenshot de Proximity Sensor 
-![agina|100](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
 
 ## Screenshot de Temperature Sensor
-![Pna|25](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
 
 ## Screenshot de Gyroscope Sensor  
 ![](imagenes/Screenshot_20230925-230217_SensorBox.jpg)
 
 ## Screenshot de Sound Sensor 
-![Dede|200](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
+![](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
 
 ## Screenshot de Magnetic Sensor
 ![](imagenes/Screenshot_20230925-230314_SensorBox.jpg)
