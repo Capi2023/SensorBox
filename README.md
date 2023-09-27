@@ -18,25 +18,25 @@
 | Pressure Sensor                  | Mide la presion ambiental alrededor del telefono |
 
 ## Screenshot de accelerometer Sensor
-![](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
+![Esoyam|40](imagenes/Screenshot_20230925-225923_SensorBox.jpg)
 
 ## Screenshot de Light Sensor
-![](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
+![Pana|50](imagenes/Screenshot_20230925-230021_SensorBox.jpg)
 
 ## Screenshot de Orientation Sensor
 ![](imagenes/Screenshot_20230925-230039_SensorBox.jpg)
 
 ## Screenshot de Proximity Sensor 
-![](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
+![agina|100](imagenes/Screenshot_20230925-230143_SensorBox.jpg)
 
 ## Screenshot de Temperature Sensor
-![](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
+![Pna|25](imagenes/Screenshot_20230925-230206_SensorBox.jpg)
 
 ## Screenshot de Gyroscope Sensor  
 ![](imagenes/Screenshot_20230925-230217_SensorBox.jpg)
 
 ## Screenshot de Sound Sensor 
-![](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
+![Dede|200](imagenes/Screenshot_20230925-230246_SensorBox.jpg)
 
 ## Screenshot de Magnetic Sensor
 ![](imagenes/Screenshot_20230925-230314_SensorBox.jpg)
