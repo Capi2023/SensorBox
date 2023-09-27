@@ -3,7 +3,7 @@
 
 ## Esta es una imagen de la pantalla principal
 
-![](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
+![Pagina|10](imagenes/Screenshot_20230925-224225_SensorBox.jpg)
 
 | Nombre de sensor                 | Definición                      |
 |----------------------------------|---------------------------------|
